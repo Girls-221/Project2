@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Source\Repos\Command project girls\bin\Debug\Command project girls.exe.config
+C:\Users\ADMIN\Source\Repos\Command project girls\bin\Debug\Command project girls.exe
+C:\Users\ADMIN\Source\Repos\Command project girls\bin\Debug\Command project girls.pdb
+C:\Users\ADMIN\Source\Repos\Command project girls\obj\Debug\Command project girls.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Source\Repos\Command project girls\obj\Debug\Command_project_girls.Form1.resources
+C:\Users\ADMIN\Source\Repos\Command project girls\obj\Debug\Command_project_girls.Properties.Resources.resources
+C:\Users\ADMIN\Source\Repos\Command project girls\obj\Debug\Command project girls.csproj.GenerateResource.cache
+C:\Users\ADMIN\Source\Repos\Command project girls\obj\Debug\Command project girls.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Source\Repos\Command project girls\obj\Debug\Command project girls.exe
+C:\Users\ADMIN\Source\Repos\Command project girls\obj\Debug\Command project girls.pdb
